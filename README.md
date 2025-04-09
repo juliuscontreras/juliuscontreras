@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunt VM Internet Exposure](https://github.com/juliuscontreras/threat-hunt-vm-internet-exposure)**
-- **[Sudden-Network-Slowdowns](https://github.com/juliuscontreras/threat-hunt-vm-internet-exposure](https://github.com/juliuscontreras/Sudden-Network-Slowdowns)**
+- **[Sudden-Network-Slowdowns](https://github.com/juliuscontreras/Sudden-Network-Slowdowns)**
 
 <hr/>
 
