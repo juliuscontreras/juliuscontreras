@@ -14,6 +14,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunt VM Internet Exposure](https://github.com/juliuscontreras/threat-hunt-vm-internet-exposure)**
 - **[Sudden-Network-Slowdowns](https://github.com/juliuscontreras/Sudden-Network-Slowdowns)**
 
+## 🚨 Incident Response with Microsoft Sentinel
+- **[Virtual Machine Brute Force Detection]**
+- **[PowerShell Suspicious Web Request]**
+- **[Potential Impossible Travel]**
+
 <hr/>
 
 ## 🤳 Connect With Me
