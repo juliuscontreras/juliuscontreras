@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Sudden-Network-Slowdowns](https://github.com/juliuscontreras/Sudden-Network-Slowdowns)**
 
 ## 🚨 Incident Response with Microsoft Sentinel
-- **Virtual Machine Brute Force Detection**
+- **[Virtual Machine Brute Force Detection](https://github.com/juliuscontreras/Sentinel-VM-Brute-Force-Detection)**
 - **PowerShell Suspicious Web Request**
 - **Potential Impossible Travel**
 
