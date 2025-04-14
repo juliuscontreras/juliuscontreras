@@ -1,39 +1,68 @@
-# <a href="https://www.linkedin.com/in/juliuscontreras/">Julius Contreras</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 👋 Hi, I'm [Julius Contreras](https://www.linkedin.com/in/juliuscontreras/)  
+## 💻 IT & Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Welcome to my GitHub! I'm a cybersecurity enthusiast with a passion for building, breaking, and securing systems. I specialize in vulnerability management, threat hunting, and incident response. This portfolio showcases hands-on projects that reflect real-world challenges and solutions in the cybersecurity domain.
 
+Each repository here represents a piece of my journey in enhancing security operations, automating detection and response workflows, and staying ahead of emerging threats. Dive into the projects below to see how I approach cybersecurity with a tactical, problem-solving mindset.
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/juliuscontreras/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+Projects that focus on identifying, prioritizing, and remediating vulnerabilities across IT infrastructure.
 
-## 🚨 Threat Hunting and Security Operations
+- [**Vulnerability Management Program Implementation**](https://github.com/juliuscontreras/vulnerability-management-program)  
+  Build-out of a structured vulnerability management lifecycle using industry best practices.
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-- **[Threat Hunt VM Internet Exposure](https://github.com/juliuscontreras/threat-hunt-vm-internet-exposure)**
-- **[Sudden-Network-Slowdowns](https://github.com/juliuscontreras/Sudden-Network-Slowdowns)**
+- [**Programmatic Vulnerability Remediations (PowerShell and BASH)**](https://github.com/joshcybertest/programmatic-vulnerability-remediations)  
+  Automation scripts for bulk remediation efforts using cross-platform scripting.
 
-## 🚨 Incident Response with Microsoft Sentinel
-- **[Virtual Machine Brute Force Detection](https://github.com/juliuscontreras/Sentinel-VM-Brute-Force-Detection)**
-- **PowerShell Suspicious Web Request**
-- **Potential Impossible Travel**
+---
 
-<hr/>
+## 🚨 Threat Hunting & Security Operations
 
-## 🤳 Connect With Me
+These projects focus on detecting suspicious behavior, analyzing system/network activity, and simulating real-world threat scenarios.
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [**Threat Hunting Scenario: Tor Browser Usage**](https://github.com/joshmadakor0/threat-hunting-scenario-tor)  
+  Analysis of unauthorized use of anonymizing browsers on internal systems.
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+- [**Threat Hunt: VM Internet Exposure**](https://github.com/juliuscontreras/threat-hunt-vm-internet-exposure)  
+  Investigation into unexpected external communication from internal VMs.
+
+- [**Sudden Network Slowdowns**](https://github.com/juliuscontreras/Sudden-Network-Slowdowns)  
+  A deep-dive into performance degradation tied to suspicious traffic and services.
+
+---
+
+## 📊 Incident Response with Microsoft Sentinel
+
+Real-time detection and automated response using Microsoft Sentinel for security monitoring in cloud and hybrid environments.
+
+- [**Virtual Machine Brute Force Detection**](https://github.com/juliuscontreras/Sentinel-VM-Brute-Force-Detection)  
+  KQL-based detection rules to catch repeated failed logins and authentication attempts.
+
+- **PowerShell Suspicious Web Request**  
+  Custom analytics rule to detect outbound PowerShell-based data exfiltration.
+
+- **Potential Impossible Travel**  
+  Behavioral analytics scenario to detect anomalous sign-ins from geographically impossible locations.
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to reach out — I'm always excited to connect with fellow professionals, mentors, or collaborators in the cybersecurity community!
+
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br/><br/>
+
+---
+
+[twitter]: https://twitter.com/___________  
+[youtube]: https://www.youtube.com/c/___________  
+[instagram]: https://www.instagram.com/___________  
 [linkedin]: https://linkedin.com/in/juliuscontreras
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
