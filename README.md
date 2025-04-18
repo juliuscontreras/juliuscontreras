@@ -47,6 +47,11 @@ Real-time detection and automated response using Microsoft Sentinel for security
 - **Potential Impossible Travel**  
   Behavioral analytics scenario to detect anomalous sign-ins from geographically impossible locations.
 
+  ---
+
+## ⚠️ Free Tier Cloud Server Setup and Security Configuration
+
+
 ---
 
 ## 🤝 Let's Connect
