@@ -50,7 +50,7 @@ Real-time detection and automated response using Microsoft Sentinel for security
   ---
 
 ## ⚠️ Free Tier Cloud Server Setup and Security Configuration
-
+- [**AWS SSH FIREWALL CONFIGURATION**]
 
 ---
 
