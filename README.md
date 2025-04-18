@@ -50,10 +50,9 @@ Real-time detection and automated response using Microsoft Sentinel for security
   ---
 
 ## ⚠️ Free Tier Cloud Server Setup and Security Configuration
-- [**AWS SSH FIREWALL CONFIGURATION**](https://github.com/juliuscontreras/FreeTierServerSetupSecurity)
+- [**Server Setup & Security Configuration with AWS**](https://github.com/juliuscontreras/FreeTierServerSetupSecurity)
 
 ---
-
 ## 🤝 Let's Connect
 
 Feel free to reach out — I'm always excited to connect with fellow professionals, mentors, or collaborators in the cybersecurity community!
