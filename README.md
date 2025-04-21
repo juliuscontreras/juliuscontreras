@@ -41,7 +41,7 @@ Real-time detection and automated response using Microsoft Sentinel for security
 - [**Virtual Machine Brute Force Detection**](https://github.com/juliuscontreras/Sentinel-VM-Brute-Force-Detection)  
   KQL-based detection rules to catch repeated failed logins and authentication attempts.
 
-- **PowerShell Suspicious Web Request**  
+- [**PowerShell Suspicious Web Request**](https://github.com/juliuscontreras/PowerShell-Suspicious-Web-Request-Incident-Response) 
   Custom analytics rule to detect outbound PowerShell-based data exfiltration.
 
 - **Potential Impossible Travel**  
