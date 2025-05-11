@@ -14,9 +14,6 @@ Projects that focus on identifying, prioritizing, and remediating vulnerabilitie
 - [**Vulnerability Management Program Implementation**](https://github.com/juliuscontreras/vulnerability-management-program)  
   Build-out of a structured vulnerability management lifecycle using industry best practices.
 
-- [**Programmatic Vulnerability Remediations (PowerShell and BASH)**](https://github.com/joshcybertest/programmatic-vulnerability-remediations)  
-  Automation scripts for bulk remediation efforts using cross-platform scripting.
-
 ---
 
 ## 🚨 Threat Hunting & Security Operations
