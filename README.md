@@ -54,16 +54,11 @@ Real-time detection and automated response using Microsoft Sentinel for security
 
 Feel free to reach out — I'm always excited to connect with fellow professionals, mentors, or collaborators in the cybersecurity community!
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br/><br/>
 
 ---
 
-[twitter]: https://twitter.com/___________  
-[youtube]: https://www.youtube.com/c/___________  
-[instagram]: https://www.instagram.com/___________  
 [linkedin]: https://linkedin.com/in/juliuscontreras
